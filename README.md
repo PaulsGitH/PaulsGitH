@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name`s Paul Dolan, welcome to my GitHub 👋
 
 
 # 💫 About Me:
