@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-📚 Currently a 2nd year BSc (hons) Software Systems Development student<br>☘ South East Technological University, Ireland<br>🏆 1:1 Student<br>💻Interested in programming, web dev, app dev, gaming 🕹and fitness💪 <br>🧐 Looking for a programming internship/placement for my 3rd year of college, to start in June 2024 and end in December 2024<br><br>
+📚 Currently a 2nd year BSc (hons) Software Systems Development student<br>☘ South East Technological University, Ireland<br>🏆 1:1 Student<br>💻Interesred in researching new tech trends, experiencing new cultures through travel, psychology, reading, modifying game console firmware, and calisthenics 💪 <br>🧐 Looking for a programming internship/placement for my 3rd year of university, available between June 2024 and December 2024<br><br>
 
 
 ## 🌐 Socials:
