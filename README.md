@@ -1,8 +1,8 @@
-### Hi there, my name`s Paul Dolan, welcome to my GitHub 👋
+### Hi there, my name's Paul Dolan, welcome to my GitHub 👋
 
 
 # 💫 About Me:
-📚 Currently a 2nd year BSc (hons) Software Systems Development student<br>☘ South East Technological University, Ireland<br>🏆 1:1 Student<br>💻Interested in new tech trends, travel, psychology, reading, modifying game console firmware, and calisthenics 💪 <br>🧐 Looking forward to starting my first industry placement at Intel Leixlip beginning June 2024<br><br>
+📚 Currently a 3rd year BSc (hons) Software Systems Development student<br>☘ South East Technological University, Ireland<br>🏆 1:1 Student<br>💻Interested in new tech trends, travel, psychology, reading, modifying game console firmware, and calisthenics 💪 <br>🧐 Currently in my first industry placement at Intel Leixlip through December 2024<br><br>
 
 
 ## 🌐 Socials:
