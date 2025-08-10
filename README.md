@@ -9,12 +9,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-dolan-dev/) 
 
 # 💻 Tech Stack:
+## 🛠 Tech Stack
+
+### **Platforms & Operating Systems**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### **Development Tools & IDEs**
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
@@ -22,6 +27,7 @@
 ![ION Sessions Manager](https://img.shields.io/badge/ION%20Sessions%20Manager-000000?style=for-the-badge)
 ![WiX Toolset](https://img.shields.io/badge/WiX%20Toolset-000000?style=for-the-badge&logo=wix&logoColor=white)
 
+### **Programming Languages**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
@@ -34,12 +40,15 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge)
 
+### **Web & Cloud Technologies**
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Semantic UI](https://img.shields.io/badge/Semantic%20UI-35BDB2?style=for-the-badge)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NetBatch](https://img.shields.io/badge/NetBatch-000000?style=for-the-badge)
 
+### **Verification & Management Tools**
 ![DVT Integration](https://img.shields.io/badge/DVT%20Integration-000000?style=for-the-badge)
 ![RTL Collateral](https://img.shields.io/badge/RTL%20Collateral-000000?style=for-the-badge)
 ![Gatekeeper](https://img.shields.io/badge/Gatekeeper-000000?style=for-the-badge)
