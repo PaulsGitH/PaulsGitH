@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-📚 Currently a 3rd year BSc (hons) Software Systems Development student<br>☘ South East Technological University, Ireland<br>🏆 1:1 Student<br>💻Interested in new tech trends, travel, psychology, reading, modifying game console firmware, and calisthenics 💪 <br>🧐 Work placement-Intel Leixlip June through December 2024<br><br>
+📚 Final year BSc (Hons) Software Systems Development <br>☘ South East Technological University, Ireland<br>🥇 1:1 Student<br>💼 Former Digital Design R&D Intern at Intel Leixlip <br>😁 Interested in new tech trends, travel, psychology, modifying game console firmware, and calisthenics <br><br>
 
 
 ## 🌐 Socials:
