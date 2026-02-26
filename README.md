@@ -46,14 +46,18 @@ Key themes:
 ### FYP Open Source Finance Analytics (Private Repository)
 
 Backend focused financial analytics platform built with FastAPI and PostgreSQL.  
-Designed as a container ready API driven system with backend first architecture and structured data modelling.
+Designed as a container ready API driven system with structured data modelling and backend first architecture.
+
+Includes integration of an open source NLP model from Hugging Face for transaction classification within a backend inference pipeline.
 
 Key themes:
+
 - RESTful API design  
 - Relational schema design and integrity  
 - Docker based deployment  
 - Backend driven dashboards  
-- Separation of concerns between API and interface layer  
+- Open source AI model integration  
+- Separation of concerns between API, inference, and interface layers  
 
 Repository currently private as part of final year project assessment.
 
