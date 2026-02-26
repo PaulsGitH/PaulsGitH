@@ -1,66 +1,163 @@
-### Hi there, my name's Paul Dolan, welcome to my GitHub 👋
+### Hi there, my name's Paul Dolan 👋
 
+# Linux Native Backend Engineer | Cloud & Container Focused
 
-# 💫 About Me:
-📚 Final year BSc (Hons) Software Systems Development <br>☘ South East Technological University, Ireland<br>🥇 1:1 Student<br>💼 Former Digital Design R&D Intern at Intel Leixlip <br>😁 Interested in new tech trends, travel, psychology, modifying game console firmware, and calisthenics <br><br>
+📚 Final year BSc Hons Software Systems Development  
+☘ South East Technological University, Ireland  
+🥇 1:1 Student  
+💼 Former Digital Design R and D Intern at Intel Leixlip  
 
+I build backend systems with a Linux first mindset and a strong focus on containerisation, reproducibility, and automation.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-dolan-dev/) 
+My engineering approach:
 
-# 💻 Tech Stack:
-## 🛠 Tech Stack
+- Container first development  
+- Infrastructure awareness during application design  
+- Backend correctness over surface complexity  
+- CLI driven workflows  
+- Open source aligned practices  
 
-### **Platforms & Operating Systems**
+Outside of engineering I am into travel, psychology, calisthenics, modifying game console firmware, and exploring operating systems just to understand how they are put together.
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-dolan-dev/)
+
+---
+
+# 🚀 Featured Projects
+
+### [NeonHud](https://github.com/PaulsGitH/NeonHud)
+
+Linux native performance HUD built in Python with a terminal first design.  
+Focused on system visibility, clean architecture, and reproducible Linux environments.  
+Designed with structured configuration and deployment awareness in mind.
+
+Key themes:
+- Linux first development  
+- CLI driven workflows  
+- Modular architecture  
+- Environment reproducibility  
+
+---
+
+### FYP Open Source Finance Analytics (Private Repository)
+
+Backend focused financial analytics platform built with FastAPI and PostgreSQL.  
+Designed as a container ready API driven system with backend first architecture and structured data modelling.
+
+Key themes:
+- RESTful API design  
+- Relational schema design and integrity  
+- Docker based deployment  
+- Backend driven dashboards  
+- Separation of concerns between API and interface layer  
+
+Repository currently private as part of final year project assessment.
+
+---
+
+### [Vintage Record Store App](https://github.com/PaulsGitH/Vintage-record-store-app)
+
+Full stack web application demonstrating structured backend integration and clear separation between application layers.
+
+Key themes:
+- API integration  
+- Structured routing and state management  
+- Clean project organisation  
+- Reproducible development setup  
+
+---
+
+# 🐧 Core Engineering Stack
+
+## Systems & Operating Environments
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### **Development Tools & IDEs**
-![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![ION Sessions Manager](https://img.shields.io/badge/ION%20Sessions%20Manager-000000?style=for-the-badge)
-![WiX Toolset](https://img.shields.io/badge/WiX%20Toolset-000000?style=for-the-badge&logo=wix&logoColor=white)
+Linux first development and terminal based workflows.
 
-### **Programming Languages**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+---
+
+## Backend & API Engineering
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### **Web & Cloud Technologies**
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Semantic UI](https://img.shields.io/badge/Semantic%20UI-35BDB2?style=for-the-badge)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+Focus areas:
+
+- RESTful service design  
+- JWT based authentication  
+- Layered architecture patterns  
+- Backend driven dashboards  
+- Clean separation of concerns  
+
+---
+
+## ☁ Cloud Native & Container Platforms
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+
+Designed and deployed containerised applications with Kubernetes orchestration in lab and project environments.
+
+---
+
+## 🗄 Data & Persistence
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![NetBatch](https://img.shields.io/badge/NetBatch-000000?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-### **Verification & Management Tools**
-![DVT Integration](https://img.shields.io/badge/DVT%20Integration-000000?style=for-the-badge)
-![RTL Collateral](https://img.shields.io/badge/RTL%20Collateral-000000?style=for-the-badge)
-![Gatekeeper](https://img.shields.io/badge/Gatekeeper-000000?style=for-the-badge)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![GPT-based AI Tools](https://img.shields.io/badge/GPT%20AI%20Tools-412991?style=for-the-badge)
+Strong focus on relational modelling and backend data integrity.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PaulsGitH&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PaulsGitH&theme=tokyonight&hide_border=false)<br/>
+---
+
+## 🔁 DevOps & Automation
+
+![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
+Working principles:
+
+- CI driven validation  
+- Automation over manual processes  
+- Reproducible development environments  
+- Infrastructure and application lifecycle awareness  
+
+---
+
+## 🔍 Currently Exploring
+
+- Deeper Kubernetes networking concepts  
+- Infrastructure as Code patterns  
+- Linux performance profiling  
+- Observability in containerised systems  
+
+---
+
+# 📊 GitHub Activity
+
+![](https://github-readme-stats.vercel.app/api?username=PaulsGitH&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=PaulsGitH&theme=tokyonight&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulsGitH&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+---
+
+### ✍ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
