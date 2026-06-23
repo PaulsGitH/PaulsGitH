@@ -1,23 +1,33 @@
 ### Hi there, my name's Paul Dolan 👋
 
-# Linux Native Backend Engineer | Cloud & Container Focused
+# Software Engineer | Linux, Systems Engineering & Cloud Technologies
 
-📚 Final year BSc Hons Software Systems Development  
-☘ South East Technological University, Ireland  
-🥇 1:1 Student  
-💼 Former Digital Design R and D Intern at Intel Leixlip  
+🎓 BSc (Hons) Software Systems Development Graduate   
+☘ South East Technological University, Ireland   
+💼 Former Digital Design R&D Intern at Intel Leixlip  
+🐧 Linux | Python | Docker | AWS | Open Source
 
-I build backend systems with a Linux first mindset and a strong focus on containerisation, reproducibility, and automation.
+I enjoy building reliable software and exploring how systems work beneath the application layer. My interests include Linux, operating systems, automation, cloud technologies, and infrastructure-focused engineering.    
 
 My engineering approach:
 
-- Container first development  
-- Infrastructure awareness during application design  
-- Backend correctness over surface complexity  
-- CLI driven workflows  
-- Open source aligned practices  
+- Linux first development
+- Containerised and reproducible environments
+- Infrastructure awareness during software design
+- Automation wherever practical
+- CLI driven workflows
+- Open source aligned practices
 
-Outside of engineering I am into travel, psychology, calisthenics, modifying game console firmware, and exploring operating systems just to understand how they are put together.
+Areas of interest:
+
+- Linux & Operating Systems
+- Systems Engineering
+- Cloud & Container Technologies
+- Backend Development
+- Infrastructure Automation
+- Open Source Software
+
+Outside of engineering I enjoy travel, psychology, calisthenics, modifying game console firmware, and exploring operating systems to better understand how they are built.    
 
 ---
 
@@ -31,7 +41,7 @@ Outside of engineering I am into travel, psychology, calisthenics, modifying gam
 
 ### [NeonHud](https://github.com/PaulsGitH/NeonHud)
 
-Linux native performance HUD built in Python with a terminal first design.  
+Linux native performance HUD built in Python with a terminal-first design.  
 Focused on system visibility, clean architecture, and reproducible Linux environments.  
 Designed with structured configuration and deployment awareness in mind.
 
@@ -43,10 +53,10 @@ Key themes:
 
 ---
 
-### FYP Open Source Finance Analytics (Private Repository)
+### [fyp-open-source-finance-analytics](https://github.com/PaulsGitH/fyp-open-source-finance-analytics)
 
-Backend focused financial analytics platform built with FastAPI and PostgreSQL.  
-Designed as a container ready API driven system with structured data modelling and backend first architecture.
+Backend-focused financial analytics platform built with FastAPI and PostgreSQL.  
+Designed as a container-ready API-driven system with structured data modelling and backend-first architecture.
 
 Includes integration of an open source NLP model from Hugging Face for transaction classification within a backend inference pipeline.
 
